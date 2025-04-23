@@ -1,4 +1,6 @@
 # `uv` python setup
+![uv logo](https://docs.astral.sh/uv/assets/logo-letter.svg "UV Logo")
+
 `uv` `python` setup for data science project. Untuk dokumentasi pribadi.
 
 ## First Setup
@@ -76,4 +78,7 @@ Untuk mengimpor dependency dalam sebuah file `requirements.txt`
 $ uv add -r requirements.txt
 ```
 
-Thank You.
+## References
+
+* [uv official documentation](https://docs.astral.sh/uv/getting-started/)
+* [uv github repo](https://github.com/astral-sh/uv)
